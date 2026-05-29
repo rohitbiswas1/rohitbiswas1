@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗████████╗    ██████╗ ██╗███████╗██╗    ██╗ █████╗ ███████╗
-██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝    ██╔══██╗██║██╔════╝██║    ██║██╔══██╗██╔════╝
-██████╔╝██║   ██║███████║██║   ██║       ██████╔╝██║███████╗██║ █╗ ██║███████║███████╗
-██╔══██╗██║   ██║██╔══██║██║   ██║       ██╔══██╗██║╚════██║██║███╗██║██╔══██║╚════██║
-██║  ██║╚██████╔╝██║  ██║██║   ██║       ██████╔╝██║███████║╚███╔███╔╝██║  ██║███████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═════╝ ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Rohit%20Biswas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20&descColor=00D9FF&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rohit+Biswas+%F0%9F%91%8B;Python+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Building+things+to+learn+things+%F0%9F%94%A5;Always+curious%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -111,7 +104,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF)](https://rohitbiswas05.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://rohitbiswas05.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rohit-biswas-b1bbab242/)
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/rohit_xd0264)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/rohitbiswas_05)
