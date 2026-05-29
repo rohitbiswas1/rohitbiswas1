@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Rohit%20Biswas&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20&descColor=00D9FF&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/rohitbiswas1/rohitbiswas1/main/banner.gif" alt="ROHIT BISWAS" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Developer;Python+Enthusiast;Always+Building+Something+New...;Open+to+Collaborate+%F0%9F%A4%9D" alt="Subtitle" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rohit+Biswas+%F0%9F%91%8B;Python+%26+AI%2FML+Enthusiast+%F0%9F%A4%96;Building+things+to+learn+things+%F0%9F%94%A5;Always+curious%2C+always+coding+%F0%9F%9A%80" alt="Typing SVG" />
 
