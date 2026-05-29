@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitbiswas1/rohitbiswas1/main/banner.gif" alt="ROHIT BISWAS" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=ROHIT+BISWAS" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Developer;Python+Enthusiast;Always+Building+Something+New...;Open+to+Collaborate+%F0%9F%A4%9D" alt="Subtitle" />
 
