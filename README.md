@@ -74,7 +74,7 @@ AI-oriented guidance application for election-related information.
 </td>
 <td width="50%">
 
-### 🧠 [AI / Machine Learning](https://github.com/rohitbiswas1/Machine-Learning)
+### 🧠 [Machine Learning](https://github.com/rohitbiswas1/Machine-Learning)
 
 ML concepts, experiments and practical implementations.
 
@@ -92,18 +92,21 @@ ML concepts, experiments and practical implementations.
 - [100_Days_Python](https://github.com/rohitbiswas1/100_Days_Python) — Python learning journey
 - [election-guidance-assistant-](https://github.com/rohitbiswas1/election-guidance-assistant-) — AI guidance application
 
-### 🌐 Web & Applications
-- [myportfolio](https://github.com/rohitbiswas1/myportfolio) — Portfolio project
+### 🌐 Web / Full-Stack / Platforms
+- [carbonwise-platform](https://github.com/rohitbiswas1/carbonwise-platform) — Carbon & sustainability platform
+- [myportfolio](https://github.com/rohitbiswas1/myportfolio) — Personal portfolio
 - [ablespace-product-data-explorer](https://github.com/rohitbiswas1/ablespace-product-data-explorer) — Product data explorer
 - [style-haven](https://github.com/rohitbiswas1/style-haven) — Web application project
+- [doorcall_cloud](https://github.com/rohitbiswas1/doorcall_cloud) — Cloud/application project
+- [rahulbiswas12](https://github.com/rohitbiswas1/rahulbiswas12) — Web project
+
+### 🎓 Academic / Management / Utilities
 - [ST_MANAGEMENT](https://github.com/rohitbiswas1/ST_MANAGEMENT) — Student management system
 - [ContactManagement](https://github.com/rohitbiswas1/ContactManagement) — Contact management app
 - [Class-Routine](https://github.com/rohitbiswas1/Class-Routine) — Class routine utility
+- [CLG-PR](https://github.com/rohitbiswas1/CLG-PR) — College project
 - [calculator](https://github.com/rohitbiswas1/calculator) — Calculator project
 - [passportphotoapp12](https://github.com/rohitbiswas1/passportphotoapp12) — Passport photo utility
-- [doorcall_cloud](https://github.com/rohitbiswas1/doorcall_cloud) — Cloud/application project
-- [CLG-PR](https://github.com/rohitbiswas1/CLG-PR) — College project
-- [rahulbiswas12](https://github.com/rohitbiswas1/rahulbiswas12) — Web project
 
 ## 🛠️ Tech Radar
 
