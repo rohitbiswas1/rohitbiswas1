@@ -9,7 +9,7 @@
 <p>
 <a href="https://github.com/rohitbiswas1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rohitbiswas1?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2ea44f?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/rohitbiswas1?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rohitbiswas1&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
@@ -39,58 +39,71 @@
 | **Database** | MongoDB |
 | **Tools** | Git · GitHub · VS Code · Netlify |
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Fake News Detection
+### 🤖 [InterviewAI](https://github.com/rohitbiswas1/InterviewAI)
 
-Machine-learning based detection of potentially misleading news content.
+AI-powered interview preparation and practice platform.
 
-`Python` `Machine Learning`
-
-<a href="https://github.com/rohitbiswas1/AI-powered-fake-news-detection">View Project →</a>
+`AI` `React` `TypeScript`
 
 </td>
 <td width="50%">
 
-### 🧠 Machine Learning
+### 🌱 [CarbonWise Platform](https://github.com/rohitbiswas1/carbonwise-platform)
 
-A collection of ML concepts, experiments and practical implementations.
+A technology project focused on carbon and sustainability workflows.
 
-`Python` `ML`
-
-<a href="https://github.com/rohitbiswas1/Machine-Learning">View Project →</a>
+`Web` `Platform`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 My Portfolio
+### 🗳️ [Election Guidance Assistant](https://github.com/rohitbiswas1/election-guidance-assistant-)
 
-Personal developer portfolio showcasing projects, skills and work.
+AI-oriented guidance application for election-related information.
 
-`Web` `Frontend`
-
-<a href="https://github.com/rohitbiswas1/My-Portfolio">View Project →</a>
+`AI` `Web`
 
 </td>
 <td width="50%">
 
-### 🐍 100 Days Python
+### 🧠 [AI / Machine Learning](https://github.com/rohitbiswas1/Machine-Learning)
 
-Hands-on Python learning, coding practice and problem solving.
+ML concepts, experiments and practical implementations.
 
-`Python` `Practice`
-
-<a href="https://github.com/rohitbiswas1/100_Days_Python">View Project →</a>
+`Python` `ML`
 
 </td>
 </tr>
 </table>
+
+## 🗂️ Repository Directory
+
+### 🤖 AI / Machine Learning
+- [InterviewAI](https://github.com/rohitbiswas1/InterviewAI) — AI interview preparation
+- [Machine-Learning](https://github.com/rohitbiswas1/Machine-Learning) — ML experiments & practice
+- [100_Days_Python](https://github.com/rohitbiswas1/100_Days_Python) — Python learning journey
+- [election-guidance-assistant-](https://github.com/rohitbiswas1/election-guidance-assistant-) — AI guidance application
+
+### 🌐 Web & Applications
+- [myportfolio](https://github.com/rohitbiswas1/myportfolio) — Portfolio project
+- [ablespace-product-data-explorer](https://github.com/rohitbiswas1/ablespace-product-data-explorer) — Product data explorer
+- [style-haven](https://github.com/rohitbiswas1/style-haven) — Web application project
+- [ST_MANAGEMENT](https://github.com/rohitbiswas1/ST_MANAGEMENT) — Student management system
+- [ContactManagement](https://github.com/rohitbiswas1/ContactManagement) — Contact management app
+- [Class-Routine](https://github.com/rohitbiswas1/Class-Routine) — Class routine utility
+- [calculator](https://github.com/rohitbiswas1/calculator) — Calculator project
+- [passportphotoapp12](https://github.com/rohitbiswas1/passportphotoapp12) — Passport photo utility
+- [doorcall_cloud](https://github.com/rohitbiswas1/doorcall_cloud) — Cloud/application project
+- [CLG-PR](https://github.com/rohitbiswas1/CLG-PR) — College project
+- [rahulbiswas12](https://github.com/rohitbiswas1/rahulbiswas12) — Web project
 
 ## 🛠️ Tech Radar
 
