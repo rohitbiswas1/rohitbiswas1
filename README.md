@@ -6,11 +6,12 @@
 
 **B.Tech CSE (AI & ML) · Brainware University · India**
 
-*I build intelligent products, full-stack applications and practical developer tools.*
+*Turning ideas into intelligent, useful software.*
 
 <p>
-  <a href="https://github.com/rohitbiswas1"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rohitbiswas1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rohitbiswas1?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2ea44f?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rohitbiswas1&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
@@ -19,30 +20,26 @@
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-- 🤖 Focused on **AI, Machine Learning, Generative AI & AI-powered applications**
+> AI/ML student and full-stack developer focused on building practical products with modern web technologies and AI.
+
+- 🎓 **B.Tech CSE (AI & ML)** · Brainware University · Expected **2028**
+- 🤖 Interested in **AI, Machine Learning, Generative AI & intelligent applications**
 - 💻 Building with **Python, React, Next.js, TypeScript & FastAPI**
-- 📚 B.Tech CSE (AI & ML), expected graduation **2028**
 - ✍️ Published/co-authored work in **AI, analytics & emerging technology**
-- 🚀 Learn by building — from experiments to real-world applications
+- 🚀 I learn by building, experimenting and shipping projects
 
-## ⚙️ Tech Stack
+## ⚙️ Skills
 
-**Languages**  
-`Python` `Java` `C` `JavaScript` `TypeScript`
-
-**AI / ML**  
-`Machine Learning` `Generative AI` `Gemini API` `AI Applications`
-
-**Frontend**  
-`React` `Next.js` `Vite` `Tailwind CSS`
-
-**Backend / Data**  
-`FastAPI` `Node.js` `MongoDB`
-
-**Tools**  
-`Git` `GitHub` `VS Code` `Netlify`
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Java · C · JavaScript · TypeScript |
+| **AI / ML** | Machine Learning · Generative AI · Gemini API · AI Applications |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS |
+| **Backend** | FastAPI · Node.js |
+| **Database** | MongoDB |
+| **Tools** | Git · GitHub · VS Code · Netlify |
 
 ## 🚀 Featured Projects
 
@@ -51,9 +48,10 @@
 <td width="50%">
 
 ### 🤖 AI Fake News Detection
-ML-powered detection of potentially misleading news content.
 
-**Python · Machine Learning**
+Machine-learning based detection of potentially misleading news content.
+
+`Python` `Machine Learning`
 
 <a href="https://github.com/rohitbiswas1/AI-powered-fake-news-detection">View Project →</a>
 
@@ -61,9 +59,10 @@ ML-powered detection of potentially misleading news content.
 <td width="50%">
 
 ### 🧠 Machine Learning
-Learning repo with ML concepts, experiments and implementations.
 
-**Python · ML**
+A collection of ML concepts, experiments and practical implementations.
+
+`Python` `ML`
 
 <a href="https://github.com/rohitbiswas1/Machine-Learning">View Project →</a>
 
@@ -72,10 +71,11 @@ Learning repo with ML concepts, experiments and implementations.
 <tr>
 <td width="50%">
 
-### 🌐 Personal Portfolio
-Modern portfolio project for showcasing development work and skills.
+### 🌐 My Portfolio
 
-**Web Development**
+Personal developer portfolio showcasing projects, skills and work.
+
+`Web` `Frontend`
 
 <a href="https://github.com/rohitbiswas1/My-Portfolio">View Project →</a>
 
@@ -83,9 +83,10 @@ Modern portfolio project for showcasing development work and skills.
 <td width="50%">
 
 ### 🐍 100 Days Python
-A hands-on Python learning and problem-solving journey.
 
-**Python · Practice**
+Hands-on Python learning, coding practice and problem solving.
+
+`Python` `Practice`
 
 <a href="https://github.com/rohitbiswas1/100_Days_Python">View Project →</a>
 
@@ -93,11 +94,22 @@ A hands-on Python learning and problem-solving journey.
 </tr>
 </table>
 
+## 🛠️ Tech Radar
+
+```text
+AI / ML             ████████████████████  BUILDING
+Python              ███████████████████░  ACTIVE
+React / Next.js     ███████████████████░  BUILDING
+TypeScript          ██████████████████░░  ACTIVE
+FastAPI / Node.js   █████████████████░░░  BUILDING
+DSA                 ███████████████░░░░░  PRACTICE
+```
+
 ## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitbiswas1&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitbiswas1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbiswas1&layout=compact&hide_border=true&theme=transparent" />
 
 <br><br>
@@ -110,39 +122,47 @@ A hands-on Python learning and problem-solving journey.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbiswas1&bg_color=00000000&color=539bf5&line=539bf5&point=ffffff&area=true&hide_border=true" alt="Rohit's GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbiswas1&bg_color=00000000&color=539bf5&line=539bf5&point=ffffff&area=true&hide_border=true&custom_title=Rohit's%20Coding%20Growth" alt="GitHub activity graph" />
 
 </div>
 
-## 🕹️ Developer Mode
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohitbiswas1&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
+
+</div>
+
+## 🕹️ Developer Console
 
 ```text
-┌──────────────────────────────────────────────┐
-│  ROHIT_BISWAS.exe                            │
+╭──────────────────────────────────────────────╮
+│  ROHIT_BISWAS // SYSTEM STATUS               │
 │                                              │
-│  [AI] ████████████████████  ONLINE           │
-│  [ML] ██████████████████░░  TRAINING         │
-│  [WEB]████████████████████  BUILDING         │
-│  [CODE]████████████████████ ALWAYS ON        │
+│  AI_ENGINE      ● ONLINE                     │
+│  ML_CORE        ● TRAINING                   │
+│  FULL_STACK     ● BUILDING                   │
+│  PROJECTS       ● SHIPPING                   │
 │                                              │
-│  status: turning ideas → working software    │
-└──────────────────────────────────────────────┘
+│  mission: idea → prototype → product         │
+╰──────────────────────────────────────────────╯
 ```
 
 ## 🐍 Contribution Trail
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitbiswas1/rohitbiswas1/output/snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/rohitbiswas1/rohitbiswas1/output/snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
-## ✨ Currently Building
-
-**AI products · Full-stack applications · ML experiments · useful tools**
+---
 
 <div align="center">
 
-### `build • learn • ship • repeat`
+### `build • experiment • learn • ship`
+
+⭐ Thanks for visiting my profile!
 
 </div>
