@@ -24,7 +24,7 @@
 
 - 🎓 **B.Tech CSE (AI & ML)** · Brainware University · Expected **2028**
 - 🤖 Interested in **AI, Machine Learning, Generative AI & intelligent applications**
-- 💻 Building with **Python, React, Next.js & FastAPI**
+- 💻 Building with **Python, HTML, React, Next.js & FastAPI**
 - ✍️ Published/co-authored work in **AI, analytics & emerging technology**
 - 🚀 I learn by building, experimenting and shipping projects
 
@@ -34,7 +34,7 @@
 |---|---|
 | **Languages** | Python · Java · C · JavaScript |
 | **AI / ML** | Machine Learning · Generative AI · Gemini API · AI Applications |
-| **Frontend** | React · Next.js · Vite |
+| **Frontend** | HTML · React · Next.js · Vite |
 | **Backend** | FastAPI · Node.js |
 | **Database** | MongoDB |
 | **Tools** | Git · GitHub · VS Code · Netlify |
