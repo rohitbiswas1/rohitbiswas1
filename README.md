@@ -2,8 +2,6 @@
 
 # ⚡ Rohit Biswas
 
-### AI & ML Engineer • Full-Stack Developer
-
 **B.Tech CSE (AI & ML) · Brainware University · India**
 
 *Turning ideas into intelligent, useful software.*
@@ -26,7 +24,7 @@
 
 - 🎓 **B.Tech CSE (AI & ML)** · Brainware University · Expected **2028**
 - 🤖 Interested in **AI, Machine Learning, Generative AI & intelligent applications**
-- 💻 Building with **Python, React, Next.js, TypeScript & FastAPI**
+- 💻 Building with **Python, React, Next.js & FastAPI**
 - ✍️ Published/co-authored work in **AI, analytics & emerging technology**
 - 🚀 I learn by building, experimenting and shipping projects
 
@@ -34,9 +32,9 @@
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Python · Java · C · JavaScript · TypeScript |
+| **Languages** | Python · Java · C · JavaScript |
 | **AI / ML** | Machine Learning · Generative AI · Gemini API · AI Applications |
-| **Frontend** | React · Next.js · Vite · Tailwind CSS |
+| **Frontend** | React · Next.js · Vite |
 | **Backend** | FastAPI · Node.js |
 | **Database** | MongoDB |
 | **Tools** | Git · GitHub · VS Code · Netlify |
@@ -100,9 +98,9 @@ Hands-on Python learning, coding practice and problem solving.
 AI / ML             ████████████████████  BUILDING
 Python              ███████████████████░  ACTIVE
 React / Next.js     ███████████████████░  BUILDING
-TypeScript          ██████████████████░░  ACTIVE
 FastAPI / Node.js   █████████████████░░░  BUILDING
 DSA                 ███████████████░░░░░  PRACTICE
+Vite                █████████████████░░░  ACTIVE
 ```
 
 ## 📊 GitHub Snapshot
