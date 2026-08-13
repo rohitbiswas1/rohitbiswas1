@@ -2,7 +2,7 @@
 
 # Rohit Biswas
 
-### AI & ML Engineer in the making • Full-Stack Developer
+### AI & ML Engineer • Full-Stack Developer
 
 *Building things with AI, code & curiosity.*
 
@@ -17,8 +17,7 @@
 
 🎓 B.Tech CSE (AI & ML)  
 🤖 AI • ML • Generative AI  
-💻 React • Next.js • TypeScript • Python  
-🚀 Building projects, learning every day & looking for opportunities
+💻 React • Next.js • TypeScript • Python
 
 ### 🛠️ Stack
 
