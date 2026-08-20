@@ -165,7 +165,9 @@ Vite                █████████████████░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitbiswas1/rohitbiswas1/output/snake.svg" alt="GitHub contribution snake" />
+**Keep building. Keep learning. Keep contributing.**
+
+[View my live GitHub contribution graph →](https://github.com/rohitbiswas1)
 
 </div>
 
