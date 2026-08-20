@@ -126,11 +126,9 @@ Vite                █████████████████░░░
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitbiswas1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbiswas1&layout=compact&hide_border=true&theme=transparent" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=rohitbiswas1&hide_border=true&theme=transparent" />
-
 </div>
+
+> **Contribution streak card removed:** the public streak service can fail because of GitHub API/rate-limit issues. Your contribution history remains available directly on your GitHub profile.
 
 ## 📈 Growth Graph
 
