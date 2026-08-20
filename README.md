@@ -123,12 +123,19 @@ Vite                █████████████████░░░
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitbiswas1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbiswas1&layout=compact&hide_border=true&theme=transparent" />
+| Metric | Status |
+|---|---|
+| 🤖 AI / ML | **Actively Building** |
+| 🐍 Python | **Active Practice** |
+| 📚 Repositories | **Open Source Projects** |
+| 🔥 Contributions | **See Live GitHub Graph** |
+| 🚀 Current Focus | **Machine Learning** |
+
+<br>
+
+[📌 View GitHub repositories](https://github.com/rohitbiswas1?tab=repositories) · [📈 View contribution activity](https://github.com/rohitbiswas1)
 
 </div>
-
-> **Contribution streak card removed:** the public streak service can fail because of GitHub API/rate-limit issues. Your contribution history remains available directly on your GitHub profile.
 
 ## 📈 Growth Graph
 
@@ -142,7 +149,11 @@ Vite                █████████████████░░░
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbiswas1&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
+**🏆 GitHub Achievements**
+
+⭐ Building public projects  ·  🤖 Learning ML  ·  💻 Practicing Python  ·  🚀 Shipping projects
+
+[View my GitHub achievements and profile →](https://github.com/rohitbiswas1)
 
 </div>
 
